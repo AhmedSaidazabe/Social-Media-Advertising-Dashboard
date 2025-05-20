@@ -6,7 +6,7 @@ A detailed analysis of social media advertising campaign performance using **Pow
 
 ## 📁 Project Overview
 
-This report aims to evaluate the effectiveness of social media ad campaigns across different platforms using performance metrics such as CTR, CPC, CPI, conversion rate, and engagement rate.
+This report evaluates the effectiveness of social media ad campaigns across different platforms using metrics such as CTR, CPC, CPI, conversion rate, and engagement rate.
 
 Key tasks:
 - Data cleaning and transformation via **Power Query**
@@ -41,36 +41,29 @@ Key tasks:
 
 ## 📌 Key Insights
 
-- Highest engagement observed on [Platform X]
-- Lowest CPC achieved in [Campaign Y]
-- High CTR correlated with video content campaigns
-- Conversion efficiency improved with increased daily budget allocation
+- Highest engagement observed on specific platforms.
+- Lowest CPC achieved in certain campaigns.
+- High CTR correlated with video content.
+- Conversion efficiency improved with better budget allocation.
 
 ---
 
 ## 💡 Recommendations
 
-- Increase budget for high-performing ad sets
-- Pause campaigns with low engagement and high CPC
-- Optimize targeting based on regional performance trends
-- A/B test creatives with low CTR
-
----
-
-## 📷 Dashboard Preview
-
-> Include 2–3 screenshots of your Power BI dashboard (you can paste them here later)
+- Increase budget for high-performing ad sets.
+- Pause campaigns with low engagement and high CPC.
+- Optimize targeting based on regional trends.
+- A/B test creatives with low CTR.
 
 ---
 
 ## ✅ Conclusion
 
-This project demonstrates how combining **Power BI** with **Python** can help uncover actionable insights from advertising data and guide future campaign decisions effectively.
+This project shows how combining **Power BI** with **Python** can uncover actionable insights from advertising data and support better decision-making.
 
 ---
 
 ## 🔗 Author
 
 **Ahmed**  
-Data Analyst | Power BI Enthusiast  
-[LinkedIn Profile](#) *(optional)*
+Data Analyst | Power BI Enthusiast
